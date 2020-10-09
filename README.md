@@ -8,7 +8,7 @@ Am [@alphaolomi](https://twitter.com/alphaolomi)
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Open souce projects like AdonisJS <!-- - 🤔 I’m looking for help with  -->
+- 👯 I’m looking to collaborate on Open souce projects like Openpesa SDK <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about Javascript or Laravel, 
 - 📫 How to reach me: alphaolomi@gmail.com
 - 😄 Pronouns: He/Him
