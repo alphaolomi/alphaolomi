@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - 👯 I’m looking to collaborate on Open souce projects like [Openpesa](http://github.com/openpesa/)
 - 💬 Ask me about [Nextjs](https://nextjs.org/), [Reactjs](https://reactjs.org/) ,  [Laravel](https://laravel.com/), etc
-- 📫 How to reach me: [alphaolomi@gmail.com](mailto:alphaolomi@gmail.com) or [telegram](https://t.me/AlphaOlomi)
+- 📫 How to reach me: [alphaolomi@gmail.com](mailto:alphaolomi@gmail.com)
 - ⚡ Fun fact: I love food and swimming  
 - 😄 Pronouns: He/Him
 
