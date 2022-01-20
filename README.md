@@ -7,7 +7,7 @@
 ### 👋 Hi there, Am [@alphaolomi](https://twitter.com/alphaolomi)
 
 - 🌱 I’m currently learning advanced concepts of [Reactjs](https://reactjs.org/) and its ecosystem of frameworks anf components
-- 👯 I’m looking to collaborate on Open souce projects like [Openpesa](http://github.com/openpesa/)
+- 👯 I’m looking to collaborate on Open source projects like [Openpesa](http://github.com/openpesa/)
 - 🔭 I’m currently working on open sources projects
 - 💬 Ask me about [Nextjs](https://nextjs.org/), [Reactjs](https://reactjs.org/) ,  [Laravel](https://laravel.com/), etc
 - 📫 How to reach me: [alphaolomi@gmail.com](mailto:alphaolomi@gmail.com)
